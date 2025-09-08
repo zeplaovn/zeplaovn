@@ -67,7 +67,6 @@ Passionate about <span style="color:#2196F3; font-weight:bold;">Bug Bounty, Web 
 ---
 
 # ☕ Support Me
-# ☕ Support Me
 
 <a href="https://www.buymeacoffee.com/Cr4ck3rVN">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
@@ -77,19 +76,21 @@ Passionate about <span style="color:#2196F3; font-weight:bold;">Bug Bounty, Web 
 
 <!-- PayPal with Color -->
 <a href="https://www.paypal.me/YourPayPalLink" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/PayPal_logo_2014.svg" width="150" title="Donate via PayPal" style="border: 2px solid #0070ba; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 112, 186, 0.3);"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/PayPal_logo_2014.svg" width="150" title="Donate via PayPal"/>
 </a>
 
 <br>
 
-<!-- Cryptocurrency Address with Color -->
-<p style="font-size: 16px; font-weight: bold; color: #FFD700;">BTC Address:</p>
-<p style="background-color: #2c3e50; padding: 8px; color: white; border-radius: 5px; font-family: monospace; font-size: 14px;">
+## Cryptocurrency Addresses:
+
+<p style="font-size: 16px; font-weight: bold; color: #00FF00;">BTC Address:</p>
+<p style="background-color: #000000; padding: 8px; color: #00FF00; border-radius: 5px; font-family: monospace; font-size: 14px;">
   1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
 </p>
 
-<p style="font-size: 16px; font-weight: bold; color: #8E44AD;">ETH Address:</p>
-<p style="background-color: #2c3e50; padding: 8px; color: white; border-radius: 5px; font-family: monospace; font-size: 14px;">
+<p style="font-size: 16px; font-weight: bold; color: #FF00FF;">ETH Address:</p>
+<p style="background-color: #000000; padding: 8px; color: #FF00FF; border-radius: 5px; font-family: monospace; font-size: 14px;">
   0x32Be343B94f860124dC4fEe278FDCBD38C102D88
 </p>
+
 
