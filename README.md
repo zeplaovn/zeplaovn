@@ -26,9 +26,9 @@ _"To defend a system, first you must understand how it can be broken."_
 <p align="left">
   <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="36" title="Nmap"/>
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="36" title="BurpSuite"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Metasploit_logo_and_wordmark.svg" width="36" title="Metasploit"/>
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="36" title="Metasploit"/>
   <img src="https://img.icons8.com/color/48/linux.png" width="36" title="Linux"/>
-  <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="36" title="Ghidra"/>
+  <img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" width="36" title="Ghidra"/>
 </p>
 
 ---
