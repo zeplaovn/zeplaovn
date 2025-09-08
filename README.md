@@ -3,9 +3,9 @@
 ---
 
 # 👨‍💻 Introduction
-I’m a **WhiteHat Security Researcher**  
-Passionate about **Bug Bounty, Web Security, and CTF challenges**.  
-_"To defend a system, first you must understand how it can be broken."_
+I’m a <span style="color:#4CAF50; font-weight:bold;">WhiteHat Security Researcher</span>  
+Passionate about <span style="color:#2196F3; font-weight:bold;">Bug Bounty, Web Security, and CTF challenges</span>.  
+<span style="color:#FF5722; font-style:italic;">"To defend a system, first you must understand how it can be broken."</span>
 
 ---
 
@@ -24,12 +24,20 @@ _"To defend a system, first you must understand how it can be broken."_
 
 ### Tools of the Trade
 <p align="left">
-  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="36" title="Nmap"/>
-  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="36" title="BurpSuite"/>
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="36" title="Metasploit"/>
-  <img src="https://img.icons8.com/color/48/linux.png" width="36" title="Linux"/>
-  <img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" width="36" title="Ghidra"/>
+  <a href="https://www.kali.org/tools/nmap/">
+    <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="36" title="Nmap"/>
+  </a>
+  <a href="https://www.kali.org/tools/burpsuite/">
+    <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="36" title="BurpSuite"/>
+  </a>
+  <a href="https://www.kali.org/tools/metasploit-framework/">
+    <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="36" title="Metasploit"/>
+  </a>
+  <a href="https://www.kali.org/tools/ghidra/">
+    <img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" width="36" title="Ghidra"/>
+  </a>
 </p>
+
 
 ---
 
@@ -54,9 +62,34 @@ _"To defend a system, first you must understand how it can be broken."_
 # 📬 Contact
 📧 Email: **truongdaizacky@gmail.com**  
 🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/othneildrew)  
-🌐 Blog/Writeup: *Coming soon...*
+🌐 Blog/Writeup: [Youtube](https://youtube.com/Cr4ck3rVN)
 
 ---
 
 # ☕ Support Me
-<a href="https://www.buymeacoffee.com/Cr4ck3rVN"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+# ☕ Support Me
+
+<a href="https://www.buymeacoffee.com/Cr4ck3rVN">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+</a>
+
+<br>
+
+<!-- PayPal with Color -->
+<a href="https://www.paypal.me/YourPayPalLink" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/PayPal_logo_2014.svg" width="150" title="Donate via PayPal" style="border: 2px solid #0070ba; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 112, 186, 0.3);"/>
+</a>
+
+<br>
+
+<!-- Cryptocurrency Address with Color -->
+<p style="font-size: 16px; font-weight: bold; color: #FFD700;">BTC Address:</p>
+<p style="background-color: #2c3e50; padding: 8px; color: white; border-radius: 5px; font-family: monospace; font-size: 14px;">
+  1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+</p>
+
+<p style="font-size: 16px; font-weight: bold; color: #8E44AD;">ETH Address:</p>
+<p style="background-color: #2c3e50; padding: 8px; color: white; border-radius: 5px; font-family: monospace; font-size: 14px;">
+  0x32Be343B94f860124dC4fEe278FDCBD38C102D88
+</p>
+
