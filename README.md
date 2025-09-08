@@ -2,25 +2,25 @@
 
 ---
 
-# 👨‍💻 Introduce
+# 👨‍💻 Introduction
 I’m a **WhiteHat Security Researcher**  
 Passionate about **Bug Bounty, Web Security, and CTF challenges**.  
-"To defend a system, first you must understand how it can be broken."
+_"To defend a system, first you must understand how it can be broken."_
 
 ---
 
 # 🛡️ Cyber Security Skillset
 
 ### Offensive Security
-- Web Exploitation (XSS, SQLi, SSTI, RCE, SSRF, IDOR, CSRF, Logic Bugs)
-- Network Security (Nmap, Wireshark, Burp Suite, Metasploit, Hydra)
-- Exploit Development & Reverse Engineering (pwntools, Ghidra, radare2, x64dbg)
-- CTF Skills (Forensics, Crypto, Stego, Binary Exploitation)
+- **Web Exploitation** (XSS, SQLi, SSTI, RCE, SSRF, IDOR, CSRF, Logic Bugs)
+- **Network Security** (Nmap, Wireshark, Burp Suite, Metasploit, Hydra)
+- **Exploit Development & Reverse Engineering** (pwntools, Ghidra, radare2, x64dbg)
+- **CTF Skills** (Forensics, Crypto, Stego, Binary Exploitation)
 
 ### Defensive Security
-- Linux Hardening (Lynis, AppArmor, systemd security)
-- Threat Modeling & Vulnerability Assessment
-- Log Analysis & SIEM
+- **Linux Hardening** (Lynis, AppArmor, systemd security)
+- **Threat Modeling & Vulnerability Assessment**
+- **Log Analysis & SIEM**
 
 ### Tools of the Trade
 <p align="left">
@@ -42,12 +42,12 @@ Passionate about **Bug Bounty, Web Security, and CTF challenges**.
 
 # 📊 GitHub Stats
 <div aligh="center">
-<a href="http://www.github.com/DaiDraZ"><img src="https://github-readme-stats.vercel.app/api?username=Cr4ck3rVN&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="DaiDraz's GitHub stats" /></a>
-<a href="http://www.github.com/Cr4ck3rVN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaiDraz&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Cr4ck3rVN"><img src="https://github-readme-stats.vercel.app/api?username=Cr4ck3rVN&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="Cr4ck3rVN's GitHub stats" /></a>
+<a href="http://www.github.com/Cr4ck3rVN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cr4ck3rVN&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
-# 🏆 Github Trophies
-<a href="http://www.github.com/Cr4ck3rVN"><img src="https://github-profile-trophy.vercel.app/?username=DaiDraZ&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Cr4ck3rVN github's trophy" /></a>
+# 🏆 GitHub Trophies
+<a href="http://www.github.com/Cr4ck3rVN"><img src="https://github-profile-trophy.vercel.app/?username=Cr4ck3rVN&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Cr4ck3rVN github's trophy" /></a>
 
 ---
 
@@ -59,20 +59,4 @@ Passionate about **Bug Bounty, Web Security, and CTF challenges**.
 ---
 
 # ☕ Support Me
-<a href="https://www.buymeacoffee.com/DaiDraZ"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-
-
-<!--
-**Cr4ck3rVN/Cr4ck3rVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.buymeacoffee.com/Cr4ck3rVN"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
