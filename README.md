@@ -2,14 +2,14 @@
 
 ---
 
-# 👨‍💻 Introduction
+# Introduction
 I’m a <span style="color:#4CAF50; font-weight:bold;">WhiteHat Security Researcher</span>  
 Passionate about <span style="color:#2196F3; font-weight:bold;">Bug Bounty, Web Security, and CTF challenges</span>.  
 <span style="color:#FF5722; font-style:italic;">"To defend a system, first you must understand how it can be broken."</span>
 
 ---
 
-# 🛡️ Cyber Security Skillset
+# Cyber Security Skillset
 
 ### Offensive Security
 - **Web Exploitation** (XSS, SQLi, SSTI, RCE, SSRF, IDOR, CSRF, Logic Bugs)
@@ -83,14 +83,9 @@ Passionate about <span style="color:#2196F3; font-weight:bold;">Bug Bounty, Web 
 
 ## Cryptocurrency Addresses:
 
-<p style="font-size: 16px; font-weight: bold; color: #00FF00;">BTC Address:</p>
+<p style="font-size: 16px; font-weight: bold; color: #00FF00;">ETH Address:</p>
 <p style="background-color: #000000; padding: 8px; color: #00FF00; border-radius: 5px; font-family: monospace; font-size: 14px;">
-  1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
-</p>
-
-<p style="font-size: 16px; font-weight: bold; color: #FF00FF;">ETH Address:</p>
-<p style="background-color: #000000; padding: 8px; color: #FF00FF; border-radius: 5px; font-family: monospace; font-size: 14px;">
-  0x32Be343B94f860124dC4fEe278FDCBD38C102D88
+  0xe92E3B1445a740fcaf5de46140fE623884f89219
 </p>
 
 
