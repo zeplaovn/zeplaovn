@@ -50,25 +50,25 @@ Passionate about <span style="color:#2196F3; font-weight:bold;">Bug Bounty, Web 
 
 # 📊 GitHub Stats
 <div aligh="center">
-<a href="http://www.github.com/Cr4ck3rVN"><img src="https://github-readme-stats.vercel.app/api?username=Cr4ck3rVN&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="Cr4ck3rVN's GitHub stats" /></a>
-<a href="http://www.github.com/Cr4ck3rVN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cr4ck3rVN&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/nullcr4wl"><img src="https://github-readme-stats.vercel.app/api?username=nullcr4wl&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="nullcr4wl's GitHub stats" /></a>
+<a href="http://www.github.com/nullcr4wl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nullcr4wl&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 # 🏆 GitHub Trophies
-<a href="http://www.github.com/Cr4ck3rVN"><img src="https://github-profile-trophy.vercel.app/?username=Cr4ck3rVN&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Cr4ck3rVN github's trophy" /></a>
+<a href="http://www.github.com/nullcr4wl"><img src="https://github-profile-trophy.vercel.app/?username=nullcr4wl&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="nullcr4wl github's trophy" /></a>
 
 ---
 
 # 📬 Contact
 📧 Email: **truongdaizacky@gmail.com**  
 🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/othneildrew)  
-🌐 Blog/Writeup: [Youtube](https://youtube.com/Cr4ck3rVN)
+🌐 Blog/Writeup: [Youtube](https://youtube.com/nullcr4wl)
 
 ---
 
 # ☕ Support Me
 
-<a href="https://www.buymeacoffee.com/Cr4ck3rVN">
+<a href="https://www.buymeacoffee.com/nullcr4wl">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
 </a>
 
