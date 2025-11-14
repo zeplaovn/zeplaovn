@@ -55,8 +55,7 @@ Passionate about <span style="color:#2196F3; font-weight:bold;">Bug Bounty, Web 
 </div>
 
 # 🏆 GitHub Trophies
-<a href="http://www.github.com/pegasus1975s"><img src="https://github-profile-trophy.vercel.app/?username=pegasus1975s&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="pegasus1975s github's trophy" /></a>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=pegasus1975s)](https://github.com/pegasus1975s/github-profile-trophy)
 ---
 
 # 📬 Contact
