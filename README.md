@@ -3,7 +3,7 @@
 ---
 
 # Introduction
-I’m a <span style="color:#4CAF50; font-weight:bold;">WhiteHat Security Researcher</span>  
+I’m a <span style="color:#4CAF50; font-weight:bold;">WhiteHat Security Pentester</span>  
 Passionate about <span style="color:#2196F3; font-weight:bold;">Bug Bounty, Web Security, and CTF challenges</span>.  
 <span style="color:#FF5722; font-style:italic;">"To defend a system, first you must understand how it can be broken."</span>
 
@@ -50,25 +50,25 @@ Passionate about <span style="color:#2196F3; font-weight:bold;">Bug Bounty, Web 
 
 # 📊 GitHub Stats
 <div aligh="center">
-<a href="http://www.github.com/nullcr4wl"><img src="https://github-readme-stats.vercel.app/api?username=nullcr4wl&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="nullcr4wl's GitHub stats" /></a>
-<a href="http://www.github.com/nullcr4wl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nullcr4wl&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/pegasus1975s"><img src="https://github-readme-stats.vercel.app/api?username=pegasus1975s&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="pegasus1975s's GitHub stats" /></a>
+<a href="http://www.github.com/pegasus1975s"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pegasus1975s&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 # 🏆 GitHub Trophies
-<a href="http://www.github.com/nullcr4wl"><img src="https://github-profile-trophy.vercel.app/?username=nullcr4wl&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="nullcr4wl github's trophy" /></a>
+<a href="http://www.github.com/pegasus1975s"><img src="https://github-profile-trophy.vercel.app/?username=pegasus1975s&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="pegasus1975s github's trophy" /></a>
 
 ---
 
 # 📬 Contact
 📧 Email: **truongdaizacky@gmail.com**  
 🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/othneildrew)  
-🌐 Blog/Writeup: [Youtube](https://youtube.com/nullcr4wl)
+🌐 Blog/Writeup: [Youtube](https://youtube.com/pegasus1975s)
 
 ---
 
 # ☕ Support Me
 
-<a href="https://www.buymeacoffee.com/nullcr4wl">
+<a href="https://www.buymeacoffee.com/pegasus1975s">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
 </a>
 
