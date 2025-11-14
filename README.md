@@ -46,6 +46,12 @@ Passionate about <span style="color:#2196F3; font-weight:bold;">Bug Bounty, Web 
 - Practicing **Bug Hunting** on platforms like HackerOne, BugCrowd, and Intigriti.  
 - Focus on **Web Security** and **Exploitation Research**.  
 
+# My profile 
+- https://play.picoctf.org/users/LokiVN
+- https://bugcrowd.com/h/pegasus1975s
+- https://www.root-me.org/4tt4ck_53rV3r?lang=en
+- https://pwnable.kr/index.php
+- [https://app.hackthebox.com/profile/](https://app.hackthebox.com/profile/2093249)
 ---
 
 # 📊 GitHub Stats
@@ -61,7 +67,7 @@ Passionate about <span style="color:#2196F3; font-weight:bold;">Bug Bounty, Web 
 # 📬 Contact
 📧 Email: **truongdaizacky@gmail.com**  
 🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/othneildrew)  
-🌐 Blog/Writeup: [Youtube](https://youtube.com/pegasus1975s)
+🌐 Blog/Writeup: [Youtube](https://youtube.com/@pegasus1975s)
 
 ---
 
