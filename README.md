@@ -2,11 +2,12 @@
 
 ---
 
-# Introduction
-<h1>Hola,Welcome to my github.</h1>
-I am a <span style="color:#4CAF50; font-weight:bold;">WhiteHat Security Pentester</span>  
-Passionate about <span style="color:#2196F3; font-weight:bold;">Bug Bounty, Web Security, and CTF challenges</span>.  
-Idiom for work: 
+#                                                                         Introduction
+H3110,Welcome to my profile.
+I am pegasus1975s and a <b>WhiteHat Security Pentester</b>  
+
+Passionate about <b>Bug Bounty, Web Security, and CTF challenges</b>.  
+Idiom: 
 <span style="color:#FF5722; font-style:italic;">"To defend a system, first you must understand how it can be broken."</span>
 
 ---
@@ -14,9 +15,9 @@ Idiom for work:
 # Cyber Security Skillset
 
 ### Offensive Security
-- **Web Exploitation** (XSS, SQLi, SSTI, RCE, SSRF, IDOR, CSRF, Logic Bugs)
-- **Network Security** (Nmap, Wireshark, Burp Suite, Metasploit, Hydra)
-- **Exploit Development & Reverse Engineering** (pwntools, Ghidra, radare2, x64dbg)
+- **Web Exploitation** (XSS, SQLi, SSTI, RCE, SSRF, IDOR, CSRF)
+- **Network Security** (Nmap, Wireshark, Metasploit, tcpdump, nc)
+- **Exploit Development & Reverse Engineering** (pwntools, Ghidra, radare2, ollydbg, pwndbg)
 - **CTF Skills** (Forensics, Crypto, Stego, Binary Exploitation)
 
 ### Defensive Security
@@ -54,6 +55,7 @@ Idiom for work:
 - https://www.root-me.org/4tt4ck_53rV3r?lang=en
 - https://pwnable.kr/index.php
 - [https://app.hackthebox.com/profile/](https://app.hackthebox.com/profile/2093249)
+- https://pwn.college/hacker/pegasus1975s
 ---
 
 # 📊 GitHub Stats
