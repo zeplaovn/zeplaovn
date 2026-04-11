@@ -3,6 +3,8 @@
 ---
 
 #                                                                         Introduction
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35FB00&center=true&width=435&lines=Breaking+system+-+Breaking+world)](https://git.io/typing-svg)
+
 <i>H3110,Welcome to my github. Im <b>zeplaovn</b> and a <b>WhiteHat Security Pentester</b>. Passionate about <b>Bug Bounty, Web Security, and CTF challenges</b>.  
 Idiom: <span style="color:#FF5722; font-style:italic;">"To defend a system, first you must understand how it can be broken."</span></i>
 
