@@ -60,12 +60,12 @@ Idiom:
 
 # 📊 GitHub Stats
 <div aligh="center">
-<a href="http://www.github.com/pegasus1975s"><img src="https://github-readme-stats.vercel.app/api?username=pegasus1975s&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="pegasus1975s's GitHub stats" /></a>
-<a href="http://www.github.com/pegasus1975s"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pegasus1975s&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/zeplaovn"><img src="https://github-readme-stats.vercel.app/api?username=zeplaovn&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="pegasus1975s's GitHub stats" /></a>
+<a href="http://www.github.com/zeplaovn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeplaovn&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 # 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=pegasus1975s)](https://github.com/pegasus1975s/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeplaovn)](https://github.com/zeplaovn/github-profile-trophy)
 ---
 
 # 📬 Contact
