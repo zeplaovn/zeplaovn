@@ -56,6 +56,7 @@ Idiom:
 - https://pwnable.kr/index.php
 - [https://app.hackthebox.com/profile/](https://app.hackthebox.com/profile/2093249)
 - https://pwn.college/hacker/pegasus1975s
+
 ---
 
 # 📊 GitHub Stats
@@ -66,12 +67,17 @@ Idiom:
 
 # 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=zeplaovn)](https://github.com/zeplaovn/github-profile-trophy)
+
 ---
 
 # 📬 Contact
-📧 Email: **truongdaizacky@gmail.com**  
-🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/othneildrew)  
+📧 Email: [Email](truongdaizacky@gmail.com)
+
+🔗 LinkedIn: [LinkedIn](https://linkedin.com/in/othneildrew)  
+
 🌐 Blog/Writeup: [Youtube](https://youtube.com/@pegasus1975s)
+
+
 
 ---
 
@@ -84,7 +90,7 @@ Idiom:
 <br>
 
 <!-- PayPal with Color -->
-<a href="https://www.paypal.me/YourPayPalLink" target="_blank">
+<a href="https://www.paypal.me/truongdaizacky" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/PayPal_logo_2014.svg" width="150" title="Donate via PayPal"/>
 </a>
 
@@ -97,4 +103,10 @@ Idiom:
   0xe92E3B1445a740fcaf5de46140fE623884f89219
 </p>
 
+
+| Công cụ | Mô tả |
+| :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript (React) |
+| **Backend** | Node.js, Express, MongoDB |
+| **DevOps** | Docker, GitHub Actions |
 
