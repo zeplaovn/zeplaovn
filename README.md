@@ -3,16 +3,23 @@
 ---
 
 #                                                                         Introduction
-H3110,Welcome to my profile.
-I am pegasus1975s and a <b>WhiteHat Security Pentester</b>  
-
-Passionate about <b>Bug Bounty, Web Security, and CTF challenges</b>.  
-Idiom: 
-<span style="color:#FF5722; font-style:italic;">"To defend a system, first you must understand how it can be broken."</span>
+<i>H3110,Welcome to my github. Im <b>zeplaovn</b> and a <b>WhiteHat Security Pentester</b>. Passionate about <b>Bug Bounty, Web Security, and CTF challenges</b>.  
+Idiom: <span style="color:#FF5722; font-style:italic;">"To defend a system, first you must understand how it can be broken."</span></i>
 
 ---
 
 # Cyber Security Skillset
+
+### 🛡️ Cybersecurity & CTF Toolkit
+| Lĩnh vực | Công cụ phổ biến | Mô tả |
+| :--- | :--- | :--- |
+| **Recon & Scanning** | `Nmap`, `Masscan`, `FFUF` | Quét cổng, dịch vụ và tìm kiếm thư mục ẩn. |
+| **Web Exploitation** | `Burp Suite`, `SQLmap` | Chặn bắt request, kiểm tra lỗ hổng SQL Injection. |
+| **Vulnerability** | `Metasploit`, `Searchsploit` | Khai thác các lỗ hổng bảo mật đã công bố (CVE). |
+| **Password Cracking** | `John the Ripper`, `Hashcat` | Bẻ khóa mật khẩu và giải mã các loại hash. |
+| **Forensics/Reverse** | `Ghidra`, `Wireshark`, `Binwalk` | Phân tích mã nguồn, lưu lượng mạng và file nhị phân. |
+| **Privilege Escalation** | `LinPeas`, `WinPeas` | Tìm kiếm con đường leo thang đặc quyền trên hệ thống. |
+
 
 ### Offensive Security
 - **Web Exploitation** (XSS, SQLi, SSTI, RCE, SSRF, IDOR, CSRF)
@@ -25,23 +32,6 @@ Idiom:
 - **Threat Modeling & Vulnerability Assessment**
 - **Log Analysis & SIEM**
 
-### Tools of the Trade
-<p align="left">
-  <a href="https://www.kali.org/tools/nmap/">
-    <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="36" title="Nmap"/>
-  </a>
-  <a href="https://www.kali.org/tools/burpsuite/">
-    <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="36" title="BurpSuite"/>
-  </a>
-  <a href="https://www.kali.org/tools/metasploit-framework/">
-    <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="36" title="Metasploit"/>
-  </a>
-  <a href="https://www.kali.org/tools/ghidra/">
-    <img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" width="36" title="Ghidra"/>
-  </a>
-</p>
-
-
 ---
 
 # ⚡ CTF & Bug Bounty
@@ -50,34 +40,29 @@ Idiom:
 - Focus on **Web Security** and **Exploitation Research**.  
 
 # My profile 
-- https://play.picoctf.org/users/LokiVN
-- https://bugcrowd.com/h/pegasus1975s
-- https://www.root-me.org/4tt4ck_53rV3r?lang=en
-- https://pwnable.kr/index.php
-- [https://app.hackthebox.com/profile/](https://app.hackthebox.com/profile/2093249)
-- https://pwn.college/hacker/pegasus1975s
+- [PicoCTF](https://play.picoctf.org/users/zeplaovn)
+- [Bugcrowd](https://bugcrowd.com/h/zeplaovn)
+- [Root Me](https://www.root-me.org/4tt4ck_53rV3r?lang=en)
+- [PWNABLE](https://pwnable.kr/index.php)
+- [Hack The Box](https://app.hackthebox.com/profile/2093249)
+- [pwn.college](https://pwn.college/hacker/zeplaovn)
 
 ---
 
 # 📊 GitHub Stats
-<div aligh="center">
-<a href="http://www.github.com/zeplaovn"><img src="https://github-readme-stats.vercel.app/api?username=zeplaovn&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="pegasus1975s's GitHub stats" /></a>
 <a href="http://www.github.com/zeplaovn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeplaovn&stroke=ffffff&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
 
 # 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeplaovn)](https://github.com/zeplaovn/github-profile-trophy)
+[![trophy](https://github-profile-repo.vercel.app/?username=zeplaovn&theme=matrix)](https://github.com/zeplaovn/github-profile-trophy)
 
 ---
 
 # 📬 Contact
-📧 Email: [Email](truongdaizacky@gmail.com)
+📧 Email: [Email](truongdaizacky@gmail.com)### Tools of the Trade
 
 🔗 LinkedIn: [LinkedIn](https://linkedin.com/in/othneildrew)  
 
 🌐 Blog/Writeup: [Youtube](https://youtube.com/@pegasus1975s)
-
-
 
 ---
 
@@ -91,7 +76,7 @@ Idiom:
 
 <!-- PayPal with Color -->
 <a href="https://www.paypal.me/truongdaizacky" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/PayPal_logo_2014.svg" width="150" title="Donate via PayPal"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/PayPal_Logo_Icon_2014.svg/500px-PayPal_Logo_Icon_2014.svg.png?_=20230314143227" width="150" title="Donate via PayPal"/>
 </a>
 
 <br>
@@ -104,9 +89,5 @@ Idiom:
 </p>
 
 
-| Công cụ | Mô tả |
-| :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript (React) |
-| **Backend** | Node.js, Express, MongoDB |
-| **DevOps** | Docker, GitHub Actions |
+
 
