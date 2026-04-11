@@ -72,20 +72,12 @@ Idiom: <span style="color:#FF5722; font-style:italic;">"To defend a system, firs
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
 </a>
 
-<br>
-
-<!-- PayPal with Color -->
-<a href="https://www.paypal.me/truongdaizacky" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/PayPal_Logo_Icon_2014.svg/500px-PayPal_Logo_Icon_2014.svg.png?_=20230314143227" width="150" title="Donate via PayPal"/>
-</a>
-
-<br>
 
 ## Cryptocurrency Addresses:
 
 <p style="font-size: 16px; font-weight: bold; color: #00FF00;">ETH Address:</p>
 <p style="background-color: #000000; padding: 8px; color: #00FF00; border-radius: 5px; font-family: monospace; font-size: 14px;">
-  0xe92E3B1445a740fcaf5de46140fE623884f89219
+  <b><i>0xe92E3B1445a740fcaf5de46140fE623884f89219</i></b>
 </p>
 
 
