@@ -60,7 +60,7 @@ Idiom: <span style="color:#FF5722; font-style:italic;">"To defend a system, firs
 ---
 
 # 📬 Contact
-📧 Email: [Email](truongdaizacky@gmail.com)
+📧 Email: [Email](zeplaovn@proton.me)
 
 🔗 LinkedIn: [LinkedIn](https://linkedin.com/in/othneildrew)  
 
